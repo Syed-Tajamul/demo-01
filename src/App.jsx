@@ -14,7 +14,6 @@ function App() {
           backdropFilter="blur(12px)"
           zIndex={10}
         />
-        <h1>hey</h1>
         <ImageCard
           src="Frame 2147231019 1.png"
           top={192}
